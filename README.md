@@ -5,7 +5,7 @@ Previews of the data are available in the data folder. For the complete data ple
 
 
 ## Requirements:
-We use the Multichain blockchain API for the platform and bcftools to process VCF files. We use v2.3.2.
+We use the Multichain blockchain API for the platform and bcftools to process VCF files. We use v2.3.3
 - Multichain Blockchain API (https://www.multichain.com/getting-started/)
 To set up Multichain, please download and install MultiChain Community. Once installed, keep a note of the directory in which MultiChain will store blockchain data. Note users do not need to create a chain, chain creation is automated by the scripts. However, before continuing we reccommend creating a dummy chain to familiarize yourself with setup.
 
